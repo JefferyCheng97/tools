@@ -1,0 +1,36 @@
+ip address-set internationalgn01 type object
+ address 1 x.14x.x5.0 wildcard 0.0.0.1xx description hk_hutch
+ address 2 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 3 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 4 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 5 x.x8.3x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 6 x1.x0.x6.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 7 x1.x0.x7.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 8 x1.x1.4x.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 9 x1.x1.4x.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 10 x0x.2.2x6.x wildcard 0.0.0.2xx description tw_taimobile
+ address 11 x0x.2.2x7.x wildcard 0.0.0.2xx description tw_taimobile
+ ...
+ ...
+ ...
+#
+ip address-set internationalgn02 type object
+ address 1 x.14x.x5.0 wildcard 0.0.0.1xx description hk_hutch
+ address 2 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 3 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 4 x.x8.4x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 5 x.x8.3x.0 wildcard 0.0.0.2xx description hk_smartone
+ address 6 x1.x0.x6.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 7 x1.x0.x7.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 8 x1.x1.4x.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 9 x1.x1.4x.0 wildcard 0.0.0.2xx description tw_taimobile
+ address 10 x0x.2.2x6.x wildcard 0.0.0.2xx description tw_taimobile
+ address 11 x0x.2.2x7.x wildcard 0.0.0.2xx description tw_taimobile
+ ...
+ ...
+ ...
+#
+
+ ...
+ ...
+ ...
